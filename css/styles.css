@@ -209,12 +209,3 @@ img {
     font-size: 37px;
   }
 }
-/* Ajustes finales incorporados en la primera entrega */
-@media (max-width: 760px) {
-  .nav-inner {
-    flex-direction: row;
-  }
-  .nav-links {
-    flex-wrap: nowrap;
-  }
-}

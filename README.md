@@ -66,10 +66,14 @@ Documente por separado las incidencias A–E. Para cada una: comportamiento ante
 ### Incidencia E
 
 - Antes:
-- Ubicación y causa:
-- Corrección:
+  ![alt text](image-19.png)
+- Ubicación y causa: La causa se debe a que hay otro querry que choca con lo pedido en el incidente E
+  ![alt text](image-18.png)
+- Corrección: Eliminar la querry extra
 - Prueba:
+  ![alt text](image-21.png)
 - Capturas:
+  ![alt text](image-20.png)
 
 ## Funcionalidad individual
 
