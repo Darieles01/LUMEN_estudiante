@@ -3,32 +3,54 @@
 Proyecto base: abrir `index.html` en un navegador; no instalar dependencias. Lea el enunciado del examen antes de modificar archivos. Conserve el proyecto inicial en el primer commit.
 
 ## Identificación
-Estudiante: ________ | Grupo: ________ | Repositorio público: ________
+
+Estudiante: **\_\_\_\_** | Grupo: **\_\_\_\_** | Repositorio público: **\_\_\_\_**
 
 ## Diagnóstico de incidencias
+
 Documente por separado las incidencias A–E. Para cada una: comportamiento anterior, archivo y selector/elemento exacto, causa técnica, corrección, prueba (1280/375 px según aplique), evidencia antes/después cuando sea visual y autor.
 
 ### Incidencia A
+
 - Antes:
-- Ubicación y causa:
+  ![alt text](image-3.png)
+- Ubicación y causa: la causa es flex-direction: column;
+  ![alt text](capturas%20de%20evidencia/image-3.png)
 - Corrección:
+  ![alt text](capturas%20de%20evidencia/image-4.png)
 - Prueba:
 - Capturas:
+  ![alt text](capturas%20de%20evidencia/image-5.png)
+  ![alt text](capturas%20de%20evidencia/image-6.png)
+  ![alt text](capturas%20de%20evidencia/image-7.png)
 
 ### Incidencia B
+
 - Antes:
-- Ubicación y causa:
+  ![alt text](capturas%20de%20evidencia/image.png)
+  ![alt text](capturas%20de%20evidencia/image-1.png)
+  ![alt text](capturas%20de%20evidencia/image-2.png)
+- Ubicación y causa: En galery.html y talleres.html era solo agregar el header, y en index.html era cambiar href="pages/galery.html" por href="pages/talleres.html"
+  ![alt text](capturas%20de%20evidencia/image.png)
+  ![alt text](capturas%20de%20evidencia/image-1.png)
+  ![alt text](capturas%20de%20evidencia/image-2.png)
 - Corrección:
+  ![alt text](image.png)
+  ![alt text](image-1.png)
+  ![alt text](image-2.png)
 - Prueba:
+  ![alt text](image-4.png)
 - Capturas:
 
 ### Incidencia C
+
 - Antes:
 - Ubicación y causa:
 - Corrección:
 - Prueba:
 
 ### Incidencia D
+
 - Antes:
 - Ubicación y causa:
 - Corrección:
@@ -36,6 +58,7 @@ Documente por separado las incidencias A–E. Para cada una: comportamiento ante
 - Capturas:
 
 ### Incidencia E
+
 - Antes:
 - Ubicación y causa:
 - Corrección:
@@ -43,9 +66,11 @@ Documente por separado las incidencias A–E. Para cada una: comportamiento ante
 - Capturas:
 
 ## Funcionalidad individual
+
 Describa la página creada, estructura, navegación interna, diseño CSS, controles y pruebas de responsividad.
 
 ## Evidencias Git / GitHub
+
 - URL repositorio:
 - Commits significativos y ramas:
 - PR ramabugs → develop (enlace):
@@ -55,4 +80,5 @@ Describa la página creada, estructura, navegación interna, diseño CSS, contro
 - Resultado de cada merge; conflictos reales y resolución, o indicar integración sin conflictos:
 
 ## Pruebas y entrega
+
 Registrar navegación, imágenes, 1280 px, 375 px, procedimiento para abrir, URL de repo y nombre del ZIP.
