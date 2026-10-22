@@ -55,9 +55,12 @@ Documente por separado las incidencias A–E. Para cada una: comportamiento ante
 ### Incidencia D
 
 - Antes:
-- Ubicación y causa:
-- Corrección:
+  ![alt text](image-16.png)
+- Ubicación y causa: se ubica en styles.css y la causa es porque el boton tiene un id y una clase pero en styles se usan los dos pero como id tiene mas peso que la clase entonces se aplica primero el #hero-action
+  ![alt text](image-15.png)
+- Corrección: Eliminar esas lineas de codigo (el #hero-action)
 - Prueba:
+  ![alt text](image-17.png)
 - Capturas:
 
 ### Incidencia E

@@ -210,9 +210,6 @@ img {
   }
 }
 /* Ajustes finales incorporados en la primera entrega */
-#hero-action {
-  background: #ba5c62;
-}
 @media (max-width: 760px) {
   .nav-inner {
     flex-direction: row;
