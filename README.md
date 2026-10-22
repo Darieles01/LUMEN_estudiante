@@ -13,40 +13,43 @@ Documente por separado las incidencias A–E. Para cada una: comportamiento ante
 ### Incidencia A
 
 - Antes:
-  ![alt text](image-3.png)
+  ![alt text](image-10.png)
 - Ubicación y causa: la causa es flex-direction: column;
-  ![alt text](capturas%20de%20evidencia/image-3.png)
+  ![alt text](image-3.png)
 - Corrección:
-  ![alt text](capturas%20de%20evidencia/image-4.png)
+  ![alt text](image-4.png)
 - Prueba:
 - Capturas:
-  ![alt text](capturas%20de%20evidencia/image-5.png)
-  ![alt text](capturas%20de%20evidencia/image-6.png)
-  ![alt text](capturas%20de%20evidencia/image-7.png)
+  ![alt text](image-5.png)
+  ![alt text](image-6.png)
+  ![alt text](image-7.png)
 
 ### Incidencia B
 
 - Antes:
-  ![alt text](capturas%20de%20evidencia/image.png)
-  ![alt text](capturas%20de%20evidencia/image-1.png)
-  ![alt text](capturas%20de%20evidencia/image-2.png)
-- Ubicación y causa: En galery.html y talleres.html era solo agregar el header, y en index.html era cambiar href="pages/galery.html" por href="pages/talleres.html"
-  ![alt text](capturas%20de%20evidencia/image.png)
-  ![alt text](capturas%20de%20evidencia/image-1.png)
-  ![alt text](capturas%20de%20evidencia/image-2.png)
-- Corrección:
   ![alt text](image.png)
   ![alt text](image-1.png)
   ![alt text](image-2.png)
+- Ubicación y causa: En galery.html y talleres.html era solo agregar el header, y en index.html era cambiar href="pages/galery.html" por href="pages/talleres.html"
+  ![alt text](image.png)
+  ![alt text](image-1.png)
+  ![alt text](image-2.png)
+- Corrección:
+  ![alt text](image100.png)
+  ![alt text](image-8.png)
+  ![alt text](image-9.png)
 - Prueba:
-  ![alt text](image-4.png)
+  ![alt text](image-11.png)
 - Capturas:
 
 ### Incidencia C
 
 - Antes:
-- Ubicación y causa:
+  ![alt text](image-13.png)
+- Ubicación y causa: El boton tenia href # habia que cambiarlo a href pages/talleres.html
+  ![alt text](image-14.png)
 - Corrección:
+  ![alt text](image-12.png)
 - Prueba:
 
 ### Incidencia D
