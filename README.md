@@ -4,11 +4,16 @@ Proyecto base: abrir `index.html` en un navegador; no instalar dependencias. Lea
 
 ## Identificación
 
-Estudiante: **\_\_\_\_** | Grupo: **\_\_\_\_** | Repositorio público: **\_\_\_\_**
+Estudiante: **Dariel Calvo Brenes** | Grupo: **002** | Repositorio público: **https://github.com/Darieles01/LUMEN_estudiante**
 
 ## Diagnóstico de incidencias
-
-Documente por separado las incidencias A–E. Para cada una: comportamiento anterior, archivo y selector/elemento exacto, causa técnica, corrección, prueba (1280/375 px según aplique), evidencia antes/después cuando sea visual y autor.
+![alt text](image-10.png)
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-13.png)
+![alt text](image-16.png)
+![alt text](image-19.png)
 
 ### Incidencia A
 
@@ -83,14 +88,18 @@ Para la responsividad se utiliza una querry, la cual empieza desde 760px y lo qu
 
 ## Evidencias Git / GitHub
 
-- URL repositorio:
-- Commits significativos y ramas:
-- PR ramabugs → develop (enlace):
-- PR ramaf1 → develop (enlace):
-- Auto-revisión de cada PR (comentarios, lista de pruebas y correcciones antes del merge):
+- URL repositorio: https://github.com/Darieles01/LUMEN_estudiante
+- Commits significativos y ramas: Todos los commits son significativos excepto el primero de ramaf1 y las ramas fueron ramaf1 ramabugs y develop
+- PR ramabugs → develop (enlace): https://github.com/Darieles01/LUMEN_estudiante/pull/1
+- PR ramaf1 → develop (enlace): https://github.com/Darieles01/LUMEN_estudiante/pull/2
+- Auto-revisión de cada PR (comentarios, lista de pruebas y correcciones antes del merge): Todo perfecto
 - PR develop → main (enlace):
-- Resultado de cada merge; conflictos reales y resolución, o indicar integración sin conflictos:
+- Resultado de cada merge; conflictos reales y resolución, o indicar integración sin conflictos: integracion sin conflictos
 
 ## Pruebas y entrega
 
 Registrar navegación, imágenes, 1280 px, 375 px, procedimiento para abrir, URL de repo y nombre del ZIP.
+Toda la navegacion y procedimientos para abrir es muy intuitiva.
+Nombre del ZIP: LUMEN_estudiante.zip
+Imagenes:
+<video controls src="20261023-0031-10.1743345.mp4" title="Title"></video>
