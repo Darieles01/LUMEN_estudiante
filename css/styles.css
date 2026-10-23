@@ -115,7 +115,7 @@ img {
 }
 .feature-layout {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   gap: 25px;
   margin-top: 32px;
 }
@@ -207,17 +207,5 @@ img {
   }
   .page-hero h1 {
     font-size: 37px;
-  }
-}
-/* Ajustes finales incorporados en la primera entrega */
-#hero-action {
-  background: #ba5c62;
-}
-@media (max-width: 760px) {
-  .nav-inner {
-    flex-direction: row;
-  }
-  .nav-links {
-    flex-wrap: nowrap;
   }
 }
