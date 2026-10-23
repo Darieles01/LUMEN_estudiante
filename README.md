@@ -76,8 +76,10 @@ Documente por separado las incidencias A–E. Para cada una: comportamiento ante
   ![alt text](image-20.png)
 
 ## Funcionalidad individual
-
-Describa la página creada, estructura, navegación interna, diseño CSS, controles y pruebas de responsividad.
+La pagina creada sigue la estructura de styles.css, en el otro css solo le di diseño a los elementos de talleres.html.
+La navegacion interna son tres botones al principio del main, despues del header y tienen su propio diseño y utilizan hover.
+Para esta pagina se utilizo las variables del styles.css.
+Para la responsividad se utiliza una querry, la cual empieza desde 760px y lo que hace es acomodar las tarjetas de las tecnicas de forma vertical y acomodar un poco los margenes.
 
 ## Evidencias Git / GitHub
 
