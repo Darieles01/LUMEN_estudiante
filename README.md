@@ -93,7 +93,7 @@ Para la responsividad se utiliza una querry, la cual empieza desde 760px y lo qu
 - PR ramabugs → develop (enlace): https://github.com/Darieles01/LUMEN_estudiante/pull/1
 - PR ramaf1 → develop (enlace): https://github.com/Darieles01/LUMEN_estudiante/pull/2
 - Auto-revisión de cada PR (comentarios, lista de pruebas y correcciones antes del merge): Todo perfecto
-- PR develop → main (enlace):
+- PR develop → main (enlace): https://github.com/Darieles01/LUMEN_estudiante/pull/3
 - Resultado de cada merge; conflictos reales y resolución, o indicar integración sin conflictos: integracion sin conflictos
 
 ## Pruebas y entrega
